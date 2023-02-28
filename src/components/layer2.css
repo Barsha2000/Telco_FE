@@ -1,0 +1,17 @@
+.rim{
+    margin-top: 4rem;
+    margin-left: 2rem;
+}
+.cd2{
+    margin-left: 6rem;
+    margin-top: 4rem;
+    transition: 0.3s ease-in-out;
+}
+.sc{
+    display: flex;
+}
+.he2{
+    font-weight: 800;
+    margin-top: 2rem;
+    font-style: italic;
+}

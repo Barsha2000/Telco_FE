@@ -1,0 +1,27 @@
+.cr1
+{
+    margin: 0 auto;
+   
+}
+.cb{
+    
+    border: 4rem;
+    font-weight: bolder;
+}
+.cd{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* background-color: rgb(250, 164, 114); */
+    margin-top: 5rem;
+    padding: 2rem;
+    padding-left: 10rem;
+    
+}
+.mt-2:hover{
+          background-color: rgb(226, 120, 120) !important;
+}
+.mt-2{
+    background: red;
+}
+

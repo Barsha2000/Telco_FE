@@ -1,0 +1,26 @@
+.m2{
+    margin-top: -3rem;
+    margin-bottom: 4rem;
+}
+.sp1{
+    background-color: rgb(255, 77, 77);
+    padding: 1rem 2rem 1rem 2rem;
+    border-radius: 30px;
+    box-shadow: rgb(136, 138, 140) 0px 20px 30px -10px;
+    font-weight: 800;
+    color: white;
+}
+.sp2{
+    padding-top: 3rem;
+    font-weight: 500;
+    margin-left: -1rem;
+}
+.sp3{
+    font-weight: 900;
+    font-size: 2.7rem;
+    font-style: italic;
+}
+ul > li 
+{
+    list-style-type: none;
+}

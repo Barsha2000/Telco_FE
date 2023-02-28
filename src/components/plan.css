@@ -1,0 +1,86 @@
+.cd{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(222, 219, 218);
+    padding-left: 10rem;
+    
+}
+
+  
+.cd1{
+    margin-right: .5rem;
+    margin-left: .5rem;
+}
+.prs{
+    font-weight: bold;
+    font-size: 3rem;
+}
+.head{
+    font-weight: bold;
+    font-size: 1.7rem;
+}
+.btn1{
+    margin: 1.5rem;
+    background-color: blue;
+}
+.btn-primary{
+    background-color: aquamarine;
+}
+.vs1{
+    font-size: 0.7rem;
+}
+.rq{
+   
+    margin-top: 7rem;
+    text-align: center;
+    font-weight: 700;
+    font-style: italic;
+    background-color: lightgray;
+    padding: 1rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    border-radius: 52px;
+}
+
+.ssb1{
+    padding: 2rem;
+    
+    background-color: rgb(255, 77, 77);
+}
+.ssb2{
+    padding: 2rem;
+  
+    background-color: rgb(211, 211, 211);
+}
+.ssb{
+    padding-top: 4rem;
+}
+.s1{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color: white;
+}
+.s11{
+    color: yellow;
+}
+.s2{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color: black;
+}
+.s12{
+    color: red;
+}
+.c1img{
+    margin-left: 17rem;
+}
+.c2img{
+    margin-left: 17rem;
+    margin-top: 2rem;
+}
+
+
+.hv:hover{
+    background-color: red;
+}
